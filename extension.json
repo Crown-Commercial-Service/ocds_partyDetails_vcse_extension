@@ -1,0 +1,17 @@
+{
+  "name": {
+    "en": "Party VCSE status"
+  },
+  "description": {
+    "en": "Allows organisations to be classified as voluntary, community or social enterprises (VCSE) or not."
+  },
+  "documentationUrl": {
+    "en": "https://extensions.open-contracting.org/en/extensions/partyDetails_vcse/master/"
+  },
+  "schemas": [
+    "release-schema.json"
+  ],
+  "compatibility": [
+    "1.1"
+  ]
+}

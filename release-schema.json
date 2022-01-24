@@ -1,0 +1,20 @@
+{
+  "definitions": {
+    "Organization": {
+      "properties": {
+        "details": {
+          "properties": {
+            "vcse": {
+              "title": "VCSE status",
+              "description": "If an organisation is a voluntary, community or social enterprise (VCSE) or not.",
+              "type": [
+                "boolean",
+                "null"
+              ]
+            }
+          }
+        }
+      }
+    }
+  }
+}
